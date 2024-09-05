@@ -1,9 +1,10 @@
 
-#About Me:
-I'm currently learning
+#About Me: <br/> 
+I am a software engineer at Jordan University of Science and Technology, where I began my studies in 2022. My skills are focused on web development
 
 
 #Socials:
+<br/>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zaid.alfaqeeh.56) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zaid.alfaqeeh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaid-al-faqeh-a19850273) 
 
 # ًTech Stack:
