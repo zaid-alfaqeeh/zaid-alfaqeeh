@@ -1,5 +1,4 @@
-
-#About Me: <br/> 
+About Me: <br/> 
 I am a software engineer at Jordan University of Science and Technology, where I began my studies in 2022. My skills are focused on web development
 
 
