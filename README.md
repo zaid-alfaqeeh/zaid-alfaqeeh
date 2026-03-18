@@ -73,6 +73,19 @@ Smart QR-based digital menu for restaurants and cafes.
 
 ---
 
+### 📱 OKAL4HEROES – Mobile Kids Barber Booking
+
+Jordan's first mobile kids' barber service with seamless online booking.
+
+* Built with ASP.NET MVC, supporting bilingual interface (AR/EN).
+* Features online appointment booking, package selection (Basic, Professional, VIP), and appointment management.
+* Includes customer testimonials, hero gallery, and discount code system.
+* Provides a smooth mobile and desktop experience for parents booking haircuts.
+  🔗 [https://okalforheroes.com/](https://okalforheroes.com/)
+
+---
+
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=zaid-alfaqeeh&theme=dark&hide_border=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zaid-alfaqeeh&theme=dark&hide_border=false)
