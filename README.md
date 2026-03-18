@@ -63,6 +63,15 @@ AI-powered platform that intelligently routes and combines responses from multip
 🔗 https://www.altchat.net  
 
 ---
+### 📱 Cafe Menu QR – Digital Menu System
+Smart QR-based digital menu for restaurants and cafes.  
+- Built cross-platform solution using React, React Native, and NestJS backend.  
+- Allows customers to scan QR codes and instantly access interactive menus without downloading apps.  
+- Integrated Firebase for real-time updates and menu management.  
+- Designed to replace traditional menus with a faster, contactless, and scalable experience.  
+🔗 https://cafe-menu-qr.vercel.app/  
+
+---
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=zaid-alfaqeeh&theme=dark&hide_border=false)
