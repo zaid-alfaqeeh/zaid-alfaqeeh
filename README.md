@@ -42,48 +42,7 @@ I am a Software Engineering student at Jordan University of Science and Technolo
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
 
-## 🚀 Featured Projects:
-
-### 🛒 Sooquk – Local Marketplace Platform
-Full-stack e-commerce platform built with ASP.NET Core, React Native, and GraphQL.  
-- Developed scalable product management, inventory tracking, and real-time stock synchronization.  
-- Implemented secure authentication and integrated REST & GraphQL APIs.  
-- Designed for future POS integration using Firebase.  
-🔗 https://sooquk.com  
-
----
-
-### 🤖 AltChat – AI Prompt Orchestration System
-AI-powered platform that intelligently routes and combines responses from multiple LLMs.  
-- Built real-time system using WebSockets with interactive frontend in React.  
-- Designed backend with Python, PostgreSQL, and Docker for scalability.  
-- Implemented prompt history tracking and dynamic AI response optimization.  
-🔗 https://www.altchat.net  
-
----
-### 📱 Cafe Menu QR – Digital Menu System
-Smart QR-based digital menu for restaurants and cafes.  
-- Built cross-platform solution using React, React Native, and NestJS backend.  
-- Allows customers to scan QR codes and instantly access interactive menus without downloading apps.  
-- Integrated Firebase for real-time updates and menu management.  
-- Designed to replace traditional menus with a faster, contactless, and scalable experience.  
-🔗 https://cafe-menu-qr.vercel.app/  
-
----
-
-### 📱 OKAL4HEROES – Mobile Kids Barber Booking
-
-Jordan's first mobile kids' barber service with seamless online booking.
-
-* Built with ASP.NET MVC, supporting bilingual interface (AR/EN).
-* Features online appointment booking, package selection (Basic, Professional, VIP), and appointment management.
-* Includes customer testimonials, hero gallery, and discount code system.
-* Provides a smooth mobile and desktop experience for parents booking haircuts.
-  🔗 [https://okalforheroes.com/](https://okalforheroes.com/)
-
----
 
 
 ## 📊 GitHub Stats:
