@@ -1,6 +1,5 @@
 ## 💫 About Me:
-I am a Software Engineering student at Jordan University of Science and Technology (Class of 2026) with a strong focus on building scalable, high-performance web and mobile applications. I specialize in modern full-stack development using React, Next.js, and backend technologies like ASP.NET Core and Node.js.
-
+I'm a Software Engineering graduate from Jordan University of Science and Technology (Class of 2026), focused on designing and building reliable software systems. I work across the full development lifecycle, from system architecture and backend engineering to web and mobile development, using technologies such as .NET, Node.js, React, and React Native.
 ---
 
 ## 🌐 Socials:
